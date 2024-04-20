@@ -1,0 +1,41 @@
+@font-face {
+  font-family: IRANSansXFaNum;
+  src: url(../style/Fonte/IRANSansXFaNum-Regular.woff);
+}
+body {
+  font-family: IRANSansXFaNum;
+}
+
+.iconFa {
+  color: #0d6efd;
+  padding: 1rem;
+  display: inline-flex;
+  border-radius: 1rem;
+  background-color: #e3e3e3ec;
+  font-size: 1.5rem;
+}
+
+.cardblue {
+  background-color: #1b2a4e;
+  color: #fff;
+}
+
+.textYellow {
+  color: #ffaa10;
+}
+
+/* .full-height {
+        height: 100vh;
+    } */
+.carousel-item {
+  max-height: 100vh;
+}
+
+/* .carousel-caption {
+        height: 50px;
+     } */
+
+.borderBottom {
+  border-bottom: 2px solid #0d6efd;
+  height: 2rem;
+}
